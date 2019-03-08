@@ -4,5 +4,8 @@ Purpose: Organize and disseminate documentation and references that are group sp
 
 
 ## Table of Contents
-1. Technical Design Document
-2. Policies and Procedures for Build Week
+01. Technical Design Document
+      - Google Docs Link
+      - Markdown file
+      - [Slideshow](https://www.gitpitch.com/ryanboris/documentation-references)
+02. Policies and Procedures for Build Week
