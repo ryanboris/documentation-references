@@ -14,3 +14,5 @@ Purpose: Organize and disseminate documentation and references that are group sp
       - [Markdown file](https://github.com/team-gh-user-breakdown/documentation-references/blob/master/03-TechnicalDesignDocument/TechnicalDesignDoc.md)
       - [Slideshow](https://www.gitpitch.com/team-gh-user-breakdown/documentation-references)
 03. [Build Week Policies](https://github.com/team-gh-user-breakdown/documentation-references/tree/master/02-BuildWeekPolicies)
+04. [Git Workflow](https://github.com/team-gh-user-breakdown/documentation-references/blob/master/04-Gitflow/Gitflow.md)
+05. [Roles](https://github.com/team-gh-user-breakdown/documentation-references/tree/master/05-Roles)
